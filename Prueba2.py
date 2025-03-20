@@ -1,10 +1,7 @@
-#Escribe un algoritmo que convierta una temperatura dada en grados Celsius a grados Fahrenheit.
+x = 3
+if x > 5:
+    print("x es mayor que 5")
+else:
+    print("x no es mayor que 5")
 
-#Obtenemos la temperatura en celsius
-Temperatura = int(input("Por favor ingrese la temperatura en celsius para convertirla en fahrenheit"))
-
-#Convertimos la temperatura
-Conversion = (Temperatura * (9/5)) + 32
-
-#Imprimimos la conversiónext
-print("\nLa temperatura en fahenheit es: ", Conversion)
+    #Prueba de actualización
